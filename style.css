@@ -1,0 +1,40 @@
+p {
+    color: rgb(124, 255, 246);
+    text-align: left;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+
+}
+
+.hg {
+    height: 300px;
+    width: 400px;
+
+}
+
+section {
+    display: flex;
+
+}
+
+article {
+    border: 3px solid purple;
+    padding: 16px;
+    margin: 32px;
+}
+
+
+/* section {
+    position: relative;
+
+}
+section p {
+    position :absolute;
+    top: 16px; 
+    left: 16px;
+    z-index: 10;
+
+} */
